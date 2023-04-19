@@ -9,7 +9,8 @@ export default function Login () {
     return(
        <Container>
             <Row>
-                <Col className=" mx-4 my-3 rounded-5 p-4 login-container">
+                <Col className=" mx-4 my-3 rounded-5 p-4 login-container"> 
+                <h1>Login</h1>
                 <LoginForm/>
                 </Col>
             </Row>
